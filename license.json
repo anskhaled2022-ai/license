@@ -5,20 +5,7 @@
       "active": true,
       "name": "ورشة الكبائن",
       "expires": "2027-12-31",
-      "machines": "CW-697e4d0e-8ds5"
-    },
-    "CLIENT-001": {
-      "active": true,
-      "name": "العميل الأول",
-      "expires": "2027-12-31",
-      "machines": "CW-dbd1a9d5-40a6",
-      "msg": ""
-    },
-    "DEMO-2026": {
-      "active": true,
-      "name": "نسختي التجريبية",
-      "expires": null,
-      "machines": "CW-dbd1a9d5-40a6"
+      "machines": null
     }
   }
 }
