@@ -2,7 +2,7 @@
   "updated": "2026-10-30",
   "licenses": {
     "ACME-2026": {
-      "active": true,
+      "active": false,
       "name": "ورشة الكبائن",
       "expires": "2027-12-31",
       "machines": "CW-dbd1a9d5-4oa6"
